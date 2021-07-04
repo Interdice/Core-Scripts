@@ -10,7 +10,7 @@ local ZERO_VECTOR3 = Vector3.new(0, 0, 0)
 local STATE_JUMPING = Enum.HumanoidStateType.Jumping
 local STATE_FREEFALL = Enum.HumanoidStateType.Freefall
 local STATE_LANDED = Enum.HumanoidStateType.Landed
-
+fasasdfds
 --[[ Local Variables ]]--
 local MasterControl = {}
 
